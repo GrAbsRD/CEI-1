@@ -1,4 +1,4 @@
-# Code for calculating the **complete elliptic integral of the first kind (CEI-1)**
+# Code for calculating the **Complete Elliptic Integral of the first kind (CEI-1)**
 - **Author**: H.-Y. Zhang, W.-J. Jiang
 - **Title**: Open Source Implementations of Numerical Algorithms for Computing the Complete Elliptic Integral of the First Kind, - **Journal**: Results in Applied Mathematics
 - **Year**: 2024
